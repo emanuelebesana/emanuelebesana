@@ -10,6 +10,6 @@ My two theses:
 
 Some notes I've written:
 <ul>
-  <li><a href="Tesi_Besana.pdf" class="image fit">: a detailed analysis of the meaning and use of the power spectrum in cosmology; </a></li>
+  <li><a href="Tesi_Besana.pdf" class="image fit"> </a></li>: a detailed analysis of the meaning and use of the power spectrum in cosmology
 </ul>
 
