@@ -7,7 +7,7 @@ Theses:
 <ul>
   <li>My <a href="MastersThesis.pdf" class="image fit">master's thesis</a>, along with a <a href="Detailed_Summary.pdf">technical summary.</a></li>
   <li>My <a href="Tesi_Besana_BS.pdf" class="image fit">bachelor's thesis.</a></li>
-
+</ul>
 Physics Notes:
 <ul>
   <li><a href="CosmologyNotes_FinalTOTAL.pdf" class="image fit">Notes</a> on Cosmology and Theoretical Structure Formation.</li>
