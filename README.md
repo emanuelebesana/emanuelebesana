@@ -5,7 +5,7 @@ Contact: ema.besana@gmail.com
 Theses:
 
 <ul>
-  <li>My <a href="MastersThesis.pdf" class="image fit">master's thesis</a>, along with a <a href="Detailed_Summary.pdf">technical summary.</a></li>
+  <li>My <a href="Tesi_Besana.pdf" class="image fit">master's thesis</a>, along with a <a href="Detailed_Summary.pdf">technical summary.</a></li>
   <li>My <a href="Tesi_Besana_BS.pdf" class="image fit">bachelor's thesis.</a></li>
 </ul>
 
